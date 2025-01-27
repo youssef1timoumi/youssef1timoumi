@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in **C++**, **Q
 ## 🌐 Connect with Me  
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/youssef-timoumi-45a003318/)  
-- Email: [your.email@example.com](mailto:youssef1timoumi@hotmail.com)  
-- GitHub: [github.com/youssef1timoumi](https://github.com/youssef1timoumi)  
+- Email: [My Email](mailto:youssef1timoumi@hotmail.com)  
+- GitHub: [My Github Profile](https://github.com/youssef1timoumi)  
 
 ---
 
