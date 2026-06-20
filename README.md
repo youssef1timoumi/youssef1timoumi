@@ -42,9 +42,8 @@ Lately I've been doing a lot of Angular/Spring work, Stripe and S3 integrations,
 
 ---
 
-### GitHub at a glance
+### Most used languages
 
-![Stats](https://github-readme-stats.vercel.app/api?username=youssef1timoumi&show_icons=true&hide_border=true&theme=transparent&hide_rank=true&hide=stars)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef1timoumi&layout=compact&hide_border=true&theme=transparent)
 
 ---
