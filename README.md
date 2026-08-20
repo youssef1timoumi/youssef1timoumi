@@ -1,3 +1,18 @@
+<div align="center">
+
+<img src="./ascii.svg" width="520" alt="youssef1timoumi"/>
+
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+
+[github](https://github.com/youssef1timoumi) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/youssef-timoumi-45a003318/) &nbsp;·&nbsp;
+[upwork](https://www.upwork.com/freelancers/youssef1timoumi) &nbsp;·&nbsp;
+[email](mailto:youssef1timoumi@hotmail.com)
+
+</div>
+
+---
+
 ### Hi, I'm Youssef 👋 *(aka Reiner)*
 
 Software engineer working across full-stack apps, automation, and bots. Most of my time goes into shipping backends, wiring up integrations, and building tools that take the boring parts of a workflow off people's hands.
